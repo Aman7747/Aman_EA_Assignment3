@@ -3,6 +3,10 @@
 **Student Name:** [Aman Desai]  
 **Assignment:** Z6003 - Engineering Analytics Assignment 3  
 
+## Requirements 
+if running in kaggle define directory or any other platform 
+pip install -r /kaggle/working/Aman_EA_Assignment3/requirements.txt
+
 ## Assignment Description
 
 This assignment implements two advanced neural network architectures:
