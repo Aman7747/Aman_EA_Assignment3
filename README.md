@@ -173,6 +173,4 @@ Both scripts are self-contained and can be run independently. They will automati
 - Neural ODEs: Chen, R. T., et al. (2018)
 - EikonalNet: Sahli Costabal, F., et al. (2019)
 
-## Contact
 
-For questions about this implementation, please refer to the course materials or contact the instructor.
